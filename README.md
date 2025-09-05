@@ -38,3 +38,4 @@ I'm a Computer Science student passionate about building tools to simplify campu
 
 ## 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3460&layout=compact&theme=radical)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Pranav3460&theme=dark)
