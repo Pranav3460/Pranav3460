@@ -32,6 +32,7 @@ I'm a Computer Science student passionate about building tools to simplify campu
 - [MindMent](https://github.com/Sachinpathak098/MindMend) - Built for mental wellness and teletherapy platform
 
 ## 📫 Connect with Me  
+- [Portfolio](https://pranav-portfolio-b1d16.web.app/)
 - [LinkedIn](https://www.linkedin.com/in/pranav-0b8820152/)  
 - ✉️ Email: Pranav34360om@gmail.com  
 
