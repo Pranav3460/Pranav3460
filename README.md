@@ -1,7 +1,6 @@
 # Hi, I'm Pranav! 👋  
 I'm a Computer Science student passionate about building tools to simplify campus life and exploring full-stack development.  
 
-## 🔧 Skills  
 ## 💻 Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
