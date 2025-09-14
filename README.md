@@ -40,4 +40,4 @@ I'm a Computer Science student passionate about building tools to simplify campu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3460&layout=compact&theme=radical)
 
 ##  Certification
-- [![AWS Practioner for Generative AI](https://images.credly.com/size/340x340/images/7bc085a9-4896-4950-afad-2568b533c50d/image.png)](https://www.credly.com/badges/7bc085a9-4896-4950-afad-2568b533c50d/public_url)
+- [![AWS Practioner for Generative AI](https://images.credly.com/size/220x220/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png)
